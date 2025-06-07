@@ -1,0 +1,74 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Header Styles */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+body {
+    background-color: yellow;
+    font-size: 20px;
+    color: darkblue;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Section Styles */
+section {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-size: 1.8em;
+    color: #4CAF50;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}h2 {
+  color: #e67e22;           /* Orange text */
+  border-bottom: 2px solid #e67e22;
+  padding-bottom: 5px;
+}
+ul {
+  list-style-type: square;  /* Change bullet points */
+  margin-left: 20px;
+}
+img {
+  border: 2px solid #333;
+  border-radius: 10px;
+  margin: 20px 0;
+  display: block;
+}
+
